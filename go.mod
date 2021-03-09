@@ -1,4 +1,4 @@
-module github.com/busgo/bus
+module github.com/ningge123/bus
 
 go 1.12
 
